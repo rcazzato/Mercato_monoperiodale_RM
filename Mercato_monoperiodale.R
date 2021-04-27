@@ -5,7 +5,7 @@
 ##################################################################
 
 #input (esempio)
-price <- c(s1 = 95, 60, 90) #prezzo dei titoli al tempo 0
+price <- c(95, 60, 90) #prezzo dei titoli al tempo 0
 scenarios <- c(100, 100, 100, 100, 100, 0, -100, 0, 200) #prezzo dei titoli al tempo 1 per ogni scenario possibile
 alpha <- c(2, -2, -1) #quantità dei titoli in portafoglio (il segno negativo vuol dire che sto shortando)
 
