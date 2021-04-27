@@ -1,8 +1,8 @@
-##################################################################
+############################################################################################################
   Author: "Ruggero Cazzato"
-  Title: "Appunti di Gestione del Rischio - Mercato Monoperiodale"
+  Title: "Appunti di Gestione del Rischio - Mercato Monoperiodale, trovare opportunità di arbitraggio"
   Date: 27/04/2021
-##################################################################
+############################################################################################################
 
 #input (esempio)
 price <- c(95, 60, 90) #prezzo dei titoli al tempo 0
